@@ -1,6 +1,12 @@
 
 # DIO Git e GitHub
 
+```
+git init
+git commit
+git push
+```
+
 Repositorio dedicado ao aprendizado sobre Git e GitHub pela [plataforma Dio](https://www.dio.me).
 
 ## 📚 Documentações
